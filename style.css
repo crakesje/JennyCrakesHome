@@ -11,11 +11,16 @@ h1 {
 	background-color:#1367ff;
 	}
 	
+p {
+	font-family: cursive;
+}
+	
 h2 {
 	font-size:28px;
 	color:#336699;
 	background-color:#222222;
 	}
+	
 h3 {
 	font-size:24px;
 	color:#22ffff;
