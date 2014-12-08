@@ -6,8 +6,9 @@ body {
 	
 h1 {
 	font-size:32px;
+	font-family: Georgia, serif;
 	color:#006600;
-	background-color:#222222;
+	background-color:#1367ff;
 	}
 	
 h2 {
@@ -28,9 +29,9 @@ h4, h5, h6 {
 
 a {
 	text-decoration:none;
-	color:#f1ffe4;
+	color:#4e007f;
 	}
 	
 a:hover {
-	color:#0c044a;
+	color:#1367ff;
 	}
