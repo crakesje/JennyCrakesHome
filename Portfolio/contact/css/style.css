@@ -9,6 +9,12 @@ h1 {
   text-align: center;
 }
 
+h5 {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #2013cc;
+}
+
 .tagline {
   text-align: center;
 }
