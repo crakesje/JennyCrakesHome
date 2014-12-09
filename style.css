@@ -17,6 +17,10 @@ p {
 	color: #1367ff;
 	text-align: center;
 }
+
+.email {
+	font-family: Georgia, serif;
+	}
 	
 h2 {
 	font-size:28px;
