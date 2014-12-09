@@ -13,6 +13,12 @@ h1 {
   text-align: center;
 }
 
+h5 {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #2013cc;
+}
+
 div h2 {
   font-family: Lucida calligraphy;
   font-size: 24px;
