@@ -15,6 +15,12 @@ h1 {
   color: #2013cc;
 }
 
+h5 {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: #2013cc;
+}
+
 div h2 {
   font-family: Lucida calligraphy;
   font-size: 24px;
@@ -32,6 +38,7 @@ div h2 {
 p {
   font-family: Helvetica;
   font-size: 16px;
+  color: #2013cc
 }
 
 a {
